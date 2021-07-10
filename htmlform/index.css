@@ -1,0 +1,52 @@
+body{
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+    background-color: aqua;
+}
+input {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: black;
+    background-color:aliceblue;
+    padding-right:200px;
+}
+input:focus{
+    border-color: green;
+}
+.signup{
+    width:600px;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-radius:15px 15px 0px 0px;
+  }
+  .text{
+    background-color:aliceblue;
+    margin-left: 40px;
+    margin-top:-20px;
+  }
+
+.name1{
+    margin-top:45px;
+    margin-bottom:50px;
+}
+.con1{
+    width:1000px;
+    margin:auto;
+    margin-top: 30px;
+    padding-bottom:30px;
+    background-color:aliceblue;
+    border-radius: 15px 15px 15px 15px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(126, 175, 231)
+}
+.image{
+    height:400px;
+    width:400px;
+    margin-left: 40px;
+}
+
+   
